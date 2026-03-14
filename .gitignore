@@ -1,0 +1,11 @@
+# Terraform files
+*.tfstate
+*.tfstate.backup
+.terraform/
+*.tfvars
+
+# Service Account keys
+*.json
+
+# OS files
+.DS_Store
