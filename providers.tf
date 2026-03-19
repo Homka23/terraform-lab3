@@ -9,7 +9,7 @@ terraform {
 }
 
 provider "google" {
-  project = "lab1-487614" # твій GCP проект
-  region  = "us-central1" # регіон для ресурсів
+  project = "lab1-487614" 
+  region  = "us-central1" 
   zone    = "us-central1-a"
 }
